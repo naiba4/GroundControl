@@ -4,7 +4,7 @@
   "description": "GroundControl push server API",
   "devDependencies": {
     "@types/node": "18.7.16",
-    "openapi-typescript": "^5.4.1",
+    "openapi-typescript": "^6.7.6",
     "prettier": "2.0.5"
   },
   "dependencies": {
@@ -14,8 +14,8 @@
     "express": "^4.17.3",
     "express-rate-limit": "^6.6.0",
     "helmet": "^5.1.0",
-    "jayson": "^3.6.6",
-    "jsonwebtoken": "^9.0.0",
+    "jayson": "^4.1.1",
+    "jsonwebtoken": "^9.0.2",
     "mysql2": "^2.3.3",
     "node-fetch": "^3.3.1",
     "reflect-metadata": "^0.1.10",
